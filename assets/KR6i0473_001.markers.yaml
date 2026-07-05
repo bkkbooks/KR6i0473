@@ -20,7 +20,6 @@ markers:
   - {type: punctuation, offset: 30, content: ，, id: KR6i0473_T_001-bkkpn2}
   - {type: punctuation, offset: 41, content: ，, id: KR6i0473_T_001-bkkpn3}
   - {type: line-break, offset: 41, content: '', id: KR6i0473_T_001-0712b15, ed: T, 'n': 0712b15}
-  - {type: substitution, offset: 43, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 45, content: 。, id: KR6i0473_T_001-bkkpn4}
   - {type: xml-element, offset: 45, content: '', id: pT17p0712b1405_end, name: p, role: close, attrs: {'xml:id': pT17p0712b1405, 'cb:place': inline}}
   - {type: xml-element, offset: 45, content: '', id: pT17p0712b1505, name: p, role: open, attrs: {'xml:id': pT17p0712b1505, 'cb:place': inline}}
@@ -788,7 +787,6 @@ markers:
   - {type: line-break, offset: 2025, content: '', id: KR6i0473_T_001-0713c30, ed: T, 'n': 0713c30}
   - {type: xml-element, offset: 2025, content: '', id: pT17p0713c3001, name: p, role: open, attrs: {'xml:id': pT17p0713c3001}}
   - {type: punctuation, offset: 2027, content: ，, id: KR6i0473_T_001-bkkpn547}
-  - {type: substitution, offset: 2034, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 2039, content: ，, id: KR6i0473_T_001-bkkpn548}
   - {type: page-break, offset: 2042, content: '', id: KR6i0473_T_001-0714a, 'n': 0714a, ed: T, source_xml_id: T17.0776.0714a}
   - {type: line-break, offset: 2042, content: '', id: KR6i0473_T_001-0714a01, ed: T, 'n': 0714a01}
@@ -797,4 +795,4 @@ markers:
   - {type: xml-element, offset: 2047, content: '', id: pT17p0713c3001_end, name: p, role: close, attrs: {'xml:id': pT17p0713c3001}}
   - {type: line-break, offset: 2047, content: '', id: KR6i0473_T_001-0714a02, ed: T, 'n': 0714a02}
   back: []
-hash: sha256:1d600a8b976ff8f4b99b3ef739048fce0842d46361e6a2cccb8d1b9472bb96d4
+hash: sha256:2f5e6fbcfed109e0bec0d9dd84ad89529680817467319e04cc8cfb59ac723937
